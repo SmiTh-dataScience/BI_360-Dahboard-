@@ -45,8 +45,7 @@ The dashboard seamlessly collects and utilizes data from two primary sources:
 - **MySQL Database**: Facts and Dimensions data are retrieved from a MySQL database.
 
 ## View the Project
-You can view the full Power BI report [PROJECT_LINK][(https://app.powerbi.com/view?r=eyJrIjoiZmY1NDQ5NDQtZWQ0Zi00NzNmLWIyYTctZDQyOTM4Yzg3ZTJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
-
+You can view the full Power BI report [PROJECT_LINK](https://app.powerbi.com/view?r=eyJrIjoiZmY1NDQ5NDQtZWQ0Zi00NzNmLWIyYTctZDQyOTM4Yzg3ZTJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Tools & Techniques
 - Power BI for interactive data visualization
 - Data modeling and DAX for advanced calculations
